@@ -18,11 +18,11 @@ A forensic-grade Python tool for recovering JPEG frames from proprietary camera 
 
 ## 🗂 Required Folder Structure
 
-Place the following in the same folder:
+Place the python script the folder containing the raw files:
 
 ```
-1760765462804        ← Raw camera data (no extension)
-1760765462804.txt    ← Timestamp/offset index file
+1710765741314        ← Raw camera data (no extension)
+1710765741314.txt    ← Timestamp/offset index file
 cam_unpack_focus.py  ← The extraction script
 ```
 

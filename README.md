@@ -1,7 +1,7 @@
 
 # Camera Raw File Frame Extractor & Rebuilder
 
-A forensic-grade Python tool for recovering JPEG frames from proprietary camera data files, reconstructing timestamps, enhancing clarity, and exporting image sequences and playable MP4 video.
+Forensic Python tool to extract JPEG frames from raw camera data of the HX-K0004A-S7 (Huizhou Huaxinwei Tech). It rebuilds timestamps from index logs, enhances clarity (optional), and exports both chronological image sets and a playable MP4 video for investigation or evidence use.
 
 ## 🔍 Features
 

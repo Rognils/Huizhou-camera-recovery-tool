@@ -4,7 +4,7 @@ A forensic-grade Python tool for recovering JPEG frames from proprietary camera 
 
 ## 🔧 Camera Information (Manufacturer & Model)
 
-- **Camera Model:** HX-K0004A-S7  
+- **Camera Model:** HX-K0004A-S7 (Could work on other models as well from Huizhou) 
 - **Manufacturer:** Huizhou Huaxinwei Technology Co., Ltd. (China)  
 - **Note:** This device saves footage in a **proprietary raw format** (not MP4/AVI), accompanied by a `.txt` index file. Standard players like VLC cannot open these files directly, which is why a custom extraction process is required.
 

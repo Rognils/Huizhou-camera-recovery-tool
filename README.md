@@ -79,7 +79,7 @@ python3 cam_unpack_focus.py --input . --fps 25 --up 2 --crop 200,100,600,400
 
 ```
 output/
- └── 1760765462804/
+ └── 1710765741314/
      ├── frames_by_soi/        ← Extracted / enhanced frames
      ├── frames_stamped/       ← Timestamped frames
      └── out_stamped_25fps.mp4 ← Reconstructed video

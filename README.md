@@ -1,3 +1,6 @@
+- [Changelog](CHANGELOG.md)
+
+
 # Camera Raw File Frame Extractor & Rebuilder
 
 A forensic-grade Python tool for recovering JPEG frames from proprietary camera data files, reconstructing timestamps, enhancing clarity, and exporting image sequences and playable MP4 video.

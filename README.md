@@ -1,4 +1,6 @@
-- [Changelog](CHANGELOG.md)
+## Version & Changelog
+Current version: **v2.0**  
+See changes in 👉 [CHANGELOG.md](CHANGELOG.md)
 
 
 # Camera Raw File Frame Extractor & Rebuilder
